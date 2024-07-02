@@ -57,11 +57,8 @@
         "fullscreen": false,
         "theme": "Dark",
         "minHeight": 720,
-        "maxHeight": 1920,
         "minWidth": 1280,
-        "maxWidth": 1080,
-        "maximized": true,
-        "resizable": true,
+        "transparent": true,
         "decorations": false
       }
     ]
